@@ -1,4 +1,8 @@
-# E-Commerce Business Intelligence Dashboard
+# E-Commerce Business Intelligence Dashboard 
+
+## 🚀 Live Dashboard
+
+[Open Live Dashboard](https://ecommerce-business-intelligence-94sjxabpmtce6aq3qqye3f.streamlit.app/)
 
 ## Project Overview
 
